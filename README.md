@@ -22,6 +22,7 @@ The **Computer-Data-Simulator** is a Java-based simulation of a basic computer a
 - Provides a suite of unit tests for validating the correctness of core features such as math operations, tokenization, and memory loading.
 
 ## Example Usage
+#### Binary is demonstrated below, but the Assembler can convert plain language into 32 bit Instructions.
 
 ### 1. Basic Number Storage
 
