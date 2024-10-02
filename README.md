@@ -26,8 +26,8 @@ The **Computer-Data-Simulator** is a Java-based simulation of a basic computer a
 
 ### 1. Basic Number Storage
 
-0) "000000000000000101 0000 00001 000 01"; // MATH DestOnly 5 => R1
-1) "000000000000000000 0000 00000 000 00"; // HALT
+0) "0000000000000 00101 0000 00001 000 01"; // MATH DestOnly 5 => R1
+1) "0000000000000 00000 0000 00000 000 00"; // HALT
 
 Stores 5 into Register 1
 
